@@ -1,2 +1,10 @@
 # Java-Web-Utility
 Tài nguyên môn học
+
+
+<!-- https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc -->
+<dependency>
+  <groupId>com.microsoft.sqlserver</groupId>
+  <artifactId>mssql-jdbc</artifactId>
+  <version>10.2.1.jre8</version>
+</dependency>
